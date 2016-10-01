@@ -12,7 +12,7 @@ var config = {
 
 	modules: [
 		{
-			module: 'alert',
+			module: 'alert'
 		},
 		{
 			module: 'clock',
@@ -67,9 +67,8 @@ var config = {
 				showSourceTitle: true,
 				showPublishDate: true
 			}
-		},
+		}
 	]
-
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
